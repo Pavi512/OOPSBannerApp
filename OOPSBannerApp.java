@@ -14,7 +14,7 @@
 // loop. But also by defining and populating the array in a more concise way
 // at the time of declaration using String.join() method to create each line
 // of the banner.
-    
+
 public class OOPSBannerApp {
     public static void main(String[] args)
 
