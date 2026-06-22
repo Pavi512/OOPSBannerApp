@@ -1,0 +1,58 @@
+ 
+### VS Code ###
+.vscode/
+
+### IntelliJ IDEA ###
+.idea/
+*.iml
+
+### Eclipse ###
+.project
+.classpath
+.settings/
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+
+### Java Compiled Files ###
+*.class
+*.jar
+*.war
+*.ear
+
+### Log Files ###
+*.log
+
+### OS Generated Files ###
+.DS_Store
+Thumbs.db
+
+### Build Directories ###
+bin/
+out/
+target/
+build/
+dist/
+
+### Temporary Files ###
+*.tmp
+*.temp
+*.swp
+
+### Environment Files ###
+.env
+.env.*
+
+### Generated Documentation ###
+docs/
+
+### Maven ###
+.mvn/
+dependency-reduced-pom.xml
+
+### Gradle ###
+.gradle/
